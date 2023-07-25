@@ -21,7 +21,6 @@ Skills:  JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=arakash007&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=arakash007)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=arakash007)  
 
