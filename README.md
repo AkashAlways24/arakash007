@@ -4,7 +4,7 @@
 
 Learn fast because Tech is love
 
-Skills:  JS / HTML / CSS
+Skills: HTML / CSS / Tailwaind / JavaScript
 
 - 🔭 I’m currently working on Learning 
 - 🌱 I’m currently learning Java 
