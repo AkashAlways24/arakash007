@@ -2,7 +2,7 @@
 #### I am Learn Too frontend Web development and Theme Development. 
 ![I am Learn Too frontend Web development and Theme Development. ](https://media.licdn.com/dms/image/D5616AQEH0Wh4nd1Bpg/profile-displaybackgroundimage-shrink_350_1400/0/1683371248409?e=1694649600&v=beta&t=E-QunUIHwQT2WgdCRqdf_Vl4B2oZQh7vAFaKiYt3-2g)
 
-Learn fast because Tech is loveLife
+Learn fast because Tech is Love
 
 Skills: HTML / CSS / Tailwaind / JavaScript
 
